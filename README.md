@@ -15,12 +15,15 @@ It is fully responsive and built with **HTML, CSS, and JavaScript**.
 ---
 
 ## 📂 Project Structure
-┣ 📜 index.html → Main portfolio page  
-┣ 📜 style.css → Styling file  
-┣ 📜 script.js → JavaScript file (if added)  
-┣ 📜images → Contains all images used in the website  
-┣ 📜 README.md   # Project documentation  
+- index.html → Main portfolio page  
+- style.css → Styling file  
+- script.js → JavaScript file (if added)  
+- images/ → Contains all images used in the website  
+- README.md → Project documentation  
 
+ ---
+
+ 
 ## 🛠️ Technologies Used
 - **HTML5**  
 - **CSS3 (Flexbox, Grid, Animations)**  
