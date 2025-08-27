@@ -30,7 +30,7 @@ It is fully responsive and built with **HTML, CSS, and JavaScript**.
 ---
 
 ## 📸 Preview
-![Portfolio Screenshot](Screenshot 2025-08-27 015054.png)
+![Portfolio Screenshot](https://github.com/AmnaUsmani/personal-portfolio-website/blob/648f79aac323119d1923f15ea0e884f9038b5b62/Screenshot%202025-08-27%20015054.png)
 
 ---
 
