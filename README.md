@@ -37,7 +37,7 @@ It is fully responsive and built with **HTML, CSS, and JavaScript**.
 ---
 
 ## 🔗 Live Demo
-[Click Here to View](https://AmnaUsmani.github.io/personal-portfolio-website/)
+[Click Here to View](https://amnausmani.github.io/personal-portfolio-website/)
 
 ---
 
