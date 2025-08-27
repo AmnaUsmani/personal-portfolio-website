@@ -35,14 +35,14 @@ It is fully responsive and built with **HTML, CSS, and JavaScript**.
 ---
 
 ## 🔗 Live Demo
-[Click Here to View](https://yourusername.github.io/personal-portfolio-website/)
+[Click Here to View](https://AmnaUsmani.github.io/personal-portfolio-website/)
 
 ---
 
 ## 👩‍💻 Author
 **Amna Usmani**  
 - 🌐 [GitHub](https://github.com/AmnaUsmani)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/AmnaUsmani)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/amnausmanifrontend/)  
 
 ---
 ✨ If you like this project, give it a ⭐ on GitHub!
