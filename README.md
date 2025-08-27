@@ -30,7 +30,7 @@ It is fully responsive and built with **HTML, CSS, and JavaScript**.
 ---
 
 ## 📸 Preview
-![Portfolio Screenshot](assets/screenshot.png)
+![Portfolio Screenshot](Screenshot 2025-08-27 015054.png)
 
 ---
 
